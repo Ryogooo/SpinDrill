@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinDrill</string>
+    <string name="spin">"切削速度から主軸回転数S(min⁻¹)を求める"</string>
+    <string name="spinshiki">"3.14×リーマ径(mm)</string>
+    <string name="spinshiki2">"S="</string>
+    <string name="nextpage">"切削送りから送り速度を求めるのはこちらから"</string>
+    <string name="spin2">"切削送りから送り速度F(mm/min)を求める"</string>
+    <string name="spinshiki3">"F=f(mm/rev)×S(min⁻¹)"</string>
+    <string name="spinshiki4">"f:切削送り(1回転当たりの送り"</string>
+    <string name="spinshiki5">"切削送りを入力"</string>
+    <string name="answer">"F="</string>
+    <string name="speed">"送り速度は"</string>
+</resources>
